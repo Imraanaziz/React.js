@@ -1,0 +1,13 @@
+.mycontainer{ 
+  height: 20vh;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+} 
+
+.search{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+} 
